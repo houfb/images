@@ -5,10 +5,12 @@
 
 我的收款码：宽200px
 ------------------------------------------------------------------
-![wxpay_zs](https://github.com/houfb/images/assets/23307328/1bb7864f-0554-452f-b73f-37034c83e624)
-![wxpay_sq](https://github.com/houfb/images/assets/23307328/630b1874-6766-4e9d-b2cd-cff92e848367)
-![alipay_sq](https://github.com/houfb/images/assets/23307328/0416a511-cb00-4d26-bc09-8d13c477577f)
 ![alipay_hb](https://github.com/houfb/images/assets/23307328/e5dbcc27-4d99-4f7e-a996-43f98803ff87)
+![alipay_sq](https://github.com/houfb/images/assets/23307328/0416a511-cb00-4d26-bc09-8d13c477577f)
+![wxpay_sq](https://github.com/houfb/images/assets/23307328/630b1874-6766-4e9d-b2cd-cff92e848367)
+![wxpay_zs](https://github.com/houfb/images/assets/23307328/1bb7864f-0554-452f-b73f-37034c83e624)
+
+ 
 
 
 我的收款码：原尺寸
