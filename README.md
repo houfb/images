@@ -20,13 +20,18 @@
 
 
 
+特别说明：
+------------------------------------------------------------------
+github和nuget的readme.md文件中，都不支持style和script标签，所以不能直接加样式，只能用原生标签的方式加样式，如下：
+<script src="libs/jquery/dist/jquery.min.js"></script>
 
- <style> 
+<style> 
 img{  
 max-width:11rem;
 margin-right:1rem; 
 } 
 </style>
 
+<img src="https://github.com/houfb/images/assets/23307328/1d1800d6-62fc-49a1-b6a3-c3feee746871"/>
 
 
