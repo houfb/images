@@ -20,7 +20,7 @@
 
  <style> 
 img{  
-width:11rem;
+max-width:11rem;
 margin-right:1rem; 
 } 
 </style>
